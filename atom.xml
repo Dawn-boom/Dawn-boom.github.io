@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-02T16:08:07.219Z</updated>
+  <updated>2024-08-04T06:37:24.261Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>verilog</title>
+    <link href="http://example.com/2024/08/04/Verilog%20043bf8e471ae4eb08befc559e6afd042/"/>
+    <id>http://example.com/2024/08/04/Verilog%20043bf8e471ae4eb08befc559e6afd042/</id>
+    <published>2024-08-03T22:35:28.000Z</published>
+    <updated>2024-08-04T06:37:24.261Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Verilog"><a href="#Verilog" class="headerlink" title="Verilog"></a>Verilog</h1><ul><li>打开 PowerShell</li><li>进入目录：simulation &#x2F; sim_image_example</li><li>运行：sim.bat</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Verilog&quot;&gt;&lt;a href=&quot;#Verilog&quot; class=&quot;headerlink&quot; title=&quot;Verilog&quot;&gt;&lt;/a&gt;Verilog&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;打开 PowerShell&lt;/li&gt;
+&lt;li&gt;进入目录：simulation &amp;#x2F</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
